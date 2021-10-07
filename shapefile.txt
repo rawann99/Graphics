@@ -1,0 +1,6 @@
+Circle_Iterative_Polar BLACK 300 271 412 281 
+Circle_Iterative_Polar YELLOW 650 692 725 688 
+Draw_Rectangle BLACK 472 445 472 445 
+circle_Direct_Clipping BLUE 240 467 361 489 
+Ellipse_Polar_Clipping BLUE 352 692 352 692 
+DrawlineDDA_Clipping BLUE 628 497 954 273 

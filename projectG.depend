@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1610154922 source:c:\data structure projects\projectg\main.cpp
+	<cmath>
+	<algorithm>
+	<tchar.h>
+	<windows.h>
+	<iostream>
+
+1610834107 source:d:\c++\data structure projects\projectg\main.cpp
+	<cmath>
+	<algorithm>
+	<vector>
+	<iostream>
+	<ostream>
+	<fstream>
+	<sstream>
+	<tchar.h>
+	<windows.h>
+	<iostream>
+
